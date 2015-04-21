@@ -31,3 +31,4 @@ module.exports = function (grunt) {
 
 	grunt.registerTask('default', ['react:compile', 'watch']);
 };
+//很好
